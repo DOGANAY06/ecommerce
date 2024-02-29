@@ -73,9 +73,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Proje içinden görüntüler,
 Proje Anasayfası 
 ![Screenshot from 2024-02-29 16-04-30](https://github.com/DOGANAY06/ecommerce/assets/46906505/dfaea1c2-f590-43ee-b75d-ab7e241c803a)
+
 Proje kategori seçim kısmı 
+
 ![image](https://github.com/DOGANAY06/ecommerce/assets/46906505/341c8941-cea0-4b52-bf7c-7bad78498be1)
+
 Card detay sayfası 
+
 ![Screenshot from 2024-02-29 16-15-37](https://github.com/DOGANAY06/ecommerce/assets/46906505/c62f7ded-fb6c-473b-888e-92c47dabba86)
 
 
